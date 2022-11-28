@@ -89,6 +89,7 @@ nav ul {
     padding: 0;
     background-color: #fd1212;
     overflow: hidden;
+    border-radius: 25px;
 }
 
 nav ul li {
