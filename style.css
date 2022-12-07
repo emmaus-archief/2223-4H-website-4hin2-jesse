@@ -9,7 +9,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #363535;    /* achtergrondkleur lichtgrijs */
+  background-color: #3d3d3d;    /* achtergrondkleur lichtgrijs */
   color: #ffffff;               /* tekstkleur donkergrijs */
 }  
 
@@ -31,7 +31,9 @@ header, footer {                  /* geldt voor header en footer */
 }
 
 main {                       
-  text-align: justify;            /* tekst uitvullen */}
+  text-align: justify;
+}                                 /* tekst uitvullen */
+
 
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
@@ -46,17 +48,21 @@ p {
 
 /* Indeling voor hoofd pagina */
 
-.kolomLinks {
-  float:left;
-  width:250px;
-  padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
+
+.basicinfo-box {
+  background-color:#242424;
+  margin-top:20px;
 }
-.kolomRechts {
+.basicinfo-tekst {
   float:left;
+  width: 400px;
+  padding:10px;
+}
+.basicinfo-img {
+  float:right;
   width: 250px;
-}
-.kolomStop {
-  clear:both;                   /* stop met floaten */
+  margin: 15px;
+  border:solid black 5px;
 }
 
 /* Opmaak voor alle pagina's */
@@ -81,6 +87,14 @@ a:hover {
     color:#ff0000
 }
 
+.kopjesh2 {
+  padding:10px;
+  margin-bottom:20px;
+}
+
+hr {
+  border-color:red;
+}
 
 /* Navigatiebalk voor alle pagina's */
 nav ul {
@@ -110,13 +124,16 @@ nav li a:hover {
 
 nav li a.active {
     background-color: black;
-    text-decoration:underline
+    text-decoration:underline;
+    color:red;
 }
 
-.kopjesh2 {
-  padding:10px
-}
 
-#f1logo {
-  margin-left: 100px
+
+
+
+#tekst-teams {
+  float:left;
+  width:50%;
+  margin-bottom:40px;
 }
