@@ -65,6 +65,40 @@ p {
   border:solid black 5px;
 }
 
+.fiainfo-box {
+background-color:#242424;
+  margin-top:20px;
+  }
+.fiainfo-tekst {
+  float:right;
+  width: 400px;
+  padding:10px;
+}
+.fiainfo-img {
+  float:left;
+  width: 250px;
+  margin: 15px;
+  border:solid black 5px;
+}
+
+.gpinfo-box {
+  background-color:#242424;
+  margin-top:20px;
+}
+.gpinfo-tekst {
+  float:left;
+  width: 400px;
+  padding:10px;
+}
+.gpinfo-img {
+  float:right;
+  width: 250px;
+  margin: 15px;
+  border:solid black 5px;
+}
+
+
+
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
@@ -129,11 +163,34 @@ nav li a.active {
 }
 
 
+Opmaak subpagina's
 
-
-
-#tekst-teams {
+.teamsinfo-box {
+  background-color:#242424;
+  margin-top:20px;
+}
+.teamsinfo-tekst {
   float:left;
-  width:50%;
-  margin-bottom:40px;
+  width: 400px;
+  padding:10px;
+}
+.teamsinfo-img {
+  float:right;
+  width: 250px;
+  margin: 15px;
+  border:solid black 5px;
+}
+
+.team-box {
+  background-color:#242424;
+  margin:20px;
+}
+.team-img {
+  margin:20px;
+  float:left;
+  width: 200px;
+  border: solid black 5px;
+}
+.team-tekst {
+ padding-top:10px;
 }
