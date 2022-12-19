@@ -128,6 +128,7 @@ a:hover {
 
 hr {
   border-color:red;
+  margin-top:10px;
 }
 
 /* Navigatiebalk voor alle pagina's */
@@ -163,11 +164,11 @@ nav li a.active {
 }
 
 
-Opmaak subpagina's
 
 .teamsinfo-box {
   background-color:#242424;
-  margin-top:20px;
+  margin-top:15px;
+  border:solid black 3px;
 }
 .teamsinfo-tekst {
   float:left;
@@ -193,4 +194,37 @@ Opmaak subpagina's
 }
 .team-tekst {
  padding-top:10px;
+}
+
+
+.coureursinfo-box {
+  background-color:#242424;
+  margin-top:15px;
+  border:solid black 3px;
+}
+.coureursinfo-tekst {
+  float:left;
+  width: 400px;
+  padding:10px;
+}
+.coureursinfo-img {
+  float:right;
+  width: 250px;
+  margin: 15px;
+  border:solid black 5px;
+}
+
+.coureur-box {
+  background-color:#242424;
+  margin:20px;
+}
+.coureur-img {
+  margin:20px;
+  float:right;
+  width: 200px;
+  border: solid black 5px;
+}
+.coureur-tekst {
+ padding-top:10px;
+ margin-left:10px;
 }
