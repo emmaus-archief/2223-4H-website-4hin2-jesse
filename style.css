@@ -217,11 +217,12 @@ nav li a.active {
 .coureur-box {
   background-color:#242424;
   margin:20px;
+  width:500px;
 }
 .coureur-img {
   margin:20px;
   float:right;
-  width: 200px;
+  width: 150px;
   border: solid black 5px;
 }
 .coureur-tekst {
