@@ -61,7 +61,8 @@ p {
 .basicinfo-img {
   float:right;
   width: 250px;
-  margin: 15px;
+  margin:25px;
+  margin-top:50px;
   border:solid black 5px;
 }
 
@@ -78,6 +79,7 @@ background-color:#242424;
   float:left;
   width: 250px;
   margin: 15px;
+  margin-top:50px;
   border:solid black 5px;
 }
 
@@ -228,4 +230,26 @@ nav li a.active {
 .coureur-tekst {
  padding-top:10px;
  margin-left:10px;
+}
+
+.rbr {
+color:red;
+}
+.mamg {
+  color:cyan;
+}
+.mcl {
+  color:orange;
+}
+.fer {
+  color:red;
+}
+.alp {
+  color:#004eff
+}
+.alfr {
+  color:#851400
+}
+.ast{
+  color:#008a55
 }
