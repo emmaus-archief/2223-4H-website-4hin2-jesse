@@ -43,7 +43,8 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 
 p {
   margin: 10px 0px;
-  text-align: justify;            /* tekst links en rechts uitvullen */
+  text-align: justify;            
+  /* tekst links en rechts uitvullen */
 }
 
 /* Indeling voor hoofd pagina */
@@ -258,4 +259,50 @@ color:red;
 }
 .will{
   color:#00A0DE
+}
+
+.circuitsinfo-box {
+  background-color:#1c1c1c;
+  margin-top:15px;
+  border:solid black 3px;
+}
+.circuitsinfo-tekst {
+  float:right;
+  width: 400px;
+  padding:10px;
+}
+.circuitsinfo-img {
+  float:left;
+  width: 250px;
+  margin: 15px;
+  border:solid black 5px;
+}
+
+.circuit-box{
+  border:solid #000000 4px;
+  background-color:#292929;
+  margin:10px;
+  width:500px;
+}
+.circuitplaatje-rechts{
+  margin:20px;
+  float:right;
+  width: 200px;
+  border: solid black 5px;
+}
+.circuitplaatje-links{
+  margin:10px;
+  float:links;
+  width: 200px;
+  border: solid black 5px;
+}
+.circuit-tekstlinks {
+ padding-top:10px;
+ margin-left:10px;
+ float:left;
+}
+.circuit-tekstrechts {
+ padding-top:10px;
+ margin-left:10px;
+ float:right;
 }
