@@ -47,24 +47,24 @@ Aan het einde van stap 3 heb je een hoofdpagina met een goede indeling en opmaak
 Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 
 ### Stap 5: Indeling en opmaak subpagina's
-- [ ] Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je pagina’s dezelfde lay-out en opmaak te gebruiken. 
+- [x] Je hebt een layout en opmaak voor al je subpagina's gemaakt. Het is handig om voor al je pagina’s dezelfde lay-out en opmaak te gebruiken. 
 
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 
 ### Stap 6: Plaatjes en tekst subpagina's
-- [ ] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
+- [x] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
 Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
 
 ### Stap 7: Perfectioneren 
-- [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
-- [ ] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
-- [ ] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
+- [x] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
+- [x] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
+- [x] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
 Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
 
 ### Stap 8: Eye catchers 
-- [ ] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
+- [x] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
 
 Aan het einde van stap 8 heb je een perfecte website met één of enkele opvallende functies die je zelf hebt toegevoegd.
 
